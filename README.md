@@ -1,33 +1,95 @@
-Wiseplay-Ricardo: Lista Personalizada de Canales AceStream
-Bienvenido al repositorio Wiseplay-Ricardo, su fuente para una lista de reproducción AceStream optimizada y cuidadosamente curada para la aplicación Wiseplay. Esta lista ha sido diseñada para ofrecer una experiencia de visualización fluida y organizada.
+# Wiseplay-Ricardo 🎥
 
-Sobre esta Lista
-Esta lista de canales (Wiseplay_Ricardo.w3u) ha sido creada por Ricardo con un enfoque en la calidad y la facilidad de uso. Incluye una selección de canales AceStream, principalmente de deportes y generalistas de España, organizados para una navegación intuitiva.
+[![Última Actualización](https://img.shields.io/github/last-commit/rlucasf10/rlucasf10.github.io?label=Última%20Actualización&style=flat-square)](https://github.com/rlucasf10/rlucasf10.github.io)
+[![Estado](https://img.shields.io/badge/Estado-Activo-success?style=flat-square)](https://github.com/rlucasf10/rlucasf10.github.io)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=flat-square)](LICENSE)
 
-Características Principales:
-Deduplicación: Cada código AceStream es único, eliminando entradas redundantes y garantizando la eficiencia.
+> Lista personalizada de canales AceStream optimizada para Wiseplay
 
-Diferenciación Clara: Los canales con nombres similares pero códigos AceStream distintos se han diferenciado con numeración secuencial (ej. (1), (2)) para evitar confusiones.
+## 📑 Índice
 
-Organización Lógica: Los canales están clasificados en categorías temáticas y ordenados alfabéticamente para una búsqueda rápida y sencilla.
+- [Sobre el Proyecto](#-sobre-el-proyecto)
+- [Características](#-características)
+- [Comenzando](#-comenzando)
+  - [Requisitos Previos](#requisitos-previos)
+  - [Instalación](#instalación)
+- [Uso](#-uso)
+- [Actualización](#-actualización)
+- [Contribuir](#-contribuir)
+- [Soporte](#-soporte)
+- [Licencia](#-licencia)
 
-Cómo Usar la Lista en Wiseplay
-Siga estos sencillos pasos para añadir la lista de canales a su aplicación Wiseplay:
+## 🎯 Sobre el Proyecto
 
-Copie la URL de la lista:
-Copie la siguiente URL:
-https://rlucasf10.github.io/Wiseplay-Ricardo/Wiseplay_Ricardo.w3u
+Wiseplay-Ricardo es una lista de reproducción AceStream cuidadosamente curada y optimizada para la aplicación Wiseplay. El proyecto se centra en proporcionar una experiencia de streaming fluida y organizada, con énfasis en contenido deportivo y canales generalistas españoles.
 
-Abra Wiseplay: Inicie la aplicación Wiseplay en su dispositivo.
+## ✨ Características
 
-Añada la lista:
+- **Contenido Deduplicado**: Cada código AceStream es único, eliminando redundancias
+- **Organización Inteligente**: 
+  - Clasificación por categorías temáticas
+  - Ordenamiento alfabético
+  - Numeración secuencial para canales similares
+- **Actualizaciones Regulares**: Lista mantenida y actualizada frecuentemente
+- **Fácil Integración**: Proceso de instalación simplificado
+- **Contenido Verificado**: Todos los enlaces son verificados periódicamente
 
-Toque el botón "+" (Añadir lista) en la pantalla principal.
+## 🚀 Comenzando
 
-Seleccione la opción "Añadir lista desde URL".
+### Requisitos Previos
 
-Pegue la URL que copió en el paso 1 en el campo de texto.
+- Aplicación Wiseplay instalada en su dispositivo
+- Conexión a Internet estable
+- AceStream Engine (para reproducir contenido)
 
-Confirme la adición de la lista.
+### Instalación
 
-Una vez añadida, la lista se sincronizará y los canales estarán disponibles para su disfrute.
+1. **Copiar la URL de la Lista**
+   ```
+   https://rlucasf10.github.io/Wiseplay-Ricardo/Wiseplay_Ricardo.w3u
+   ```
+
+2. **En la Aplicación Wiseplay**
+   - Abra Wiseplay
+   - Pulse el botón "+" para añadir lista
+   - Seleccione "Añadir lista desde URL"
+   - Pegue la URL copiada
+   - Confirme la adición
+
+## 📺 Uso
+
+Una vez instalada, la lista se integrará automáticamente en su aplicación Wiseplay. Para acceder al contenido:
+
+1. Abra Wiseplay
+2. Navegue por las categorías disponibles
+3. Seleccione el canal deseado
+4. ¡Disfrute del contenido!
+
+## 🔄 Actualización
+
+La lista se actualiza automáticamente cuando:
+- Abre Wiseplay con conexión a Internet
+- Fuerza una actualización manual desde la aplicación
+
+## 👥 Contribuir
+
+Las sugerencias y contribuciones son siempre bienvenidas. Puede contribuir de varias formas:
+
+- Reportando enlaces caídos
+- Sugiriendo nuevos canales
+- Proponiendo mejoras en la organización
+
+## 🆘 Soporte
+
+Si encuentra algún problema o tiene alguna sugerencia, por favor:
+1. Verifique que está usando la última versión
+2. Asegúrese de tener una conexión estable a Internet
+3. Contacte a través de las issues en GitHub
+
+## 📝 Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+*Última actualización: Junio 2025*
